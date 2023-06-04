@@ -65,7 +65,7 @@ input[type="date"] {
 .button {
   display: inline-block;
   padding: 14px 24px;
-  background-color: #4CAF50;
+  background-color: rgb(0, 0, 255);
   color: #fff;
   text-decoration: none;
   border: none;
@@ -76,7 +76,7 @@ input[type="date"] {
 }
 
 .button:hover {
-  background-color: #45a049;
+  background-color: #00008b;
 }
 
 .card-list {
